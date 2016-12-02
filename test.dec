@@ -1,0 +1,9 @@
+class Program {
+	int x;
+	int main() {
+		if(1 && 2) {
+			callout("printf", "hahha%d\n", 0 || 0);
+		}
+		return 1;
+	}
+}
