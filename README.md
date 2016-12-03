@@ -8,6 +8,6 @@ How to use the compiler:
 Run the below commands (in order)
 	1. make clean
 	2. make
-	3. ./decaf <input_filename> > <output_filename>
-	4. clang <output_filename> 
+	3. ./decaf \<input_filepath\> > \<output_filepath\>
+	4. clang \<output_filepath\> 
 	5. ./a.out
